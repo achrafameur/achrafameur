@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @achrafameur
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning (fullstack JS / computer science degree) 
-- 💞️ I’m looking to collaborate in the field of IT 
 - 📫 How to reach me :
      email : achref.ameur1925@gmail.com 
  
