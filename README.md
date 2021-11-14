@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning (fullstack JS / computer science degree) 
 - 📫 How to reach me :
-     email : achref.ameur1925@gmail.com 
+     email : achref.ameur1925@gmail.com                                                                                                                                                           
      LinkedIn : Achref Ameur
  
 <!---
