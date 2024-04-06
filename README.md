@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @achrafameur
-- 👀 I’m interested in web developement
+- 👀 I'm a web developer
 - 🌱 I Have currently a computer science degree 
 - 📫 How to reach me :
      email : achref.ameur1925@gmail.com                                                                                                                                                           
