@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @achrafameur
 - 👀 I'm a web developer
 - 🌱 I Have currently a computer science degree 
-- 📫 How to reach me :
-  
-     email : achref.ameur1925@gmail.com                                                                                                                                                           
-     LinkedIn : https://www.linkedin.com/in/achraf-ameur-53763a1b5/
-     website : https://achrafameur.netlify.app 
+- 📫 How to reach me : <br>
+     email : achref.ameur1925@gmail.com  <br>                                                                                                                                                         
+     LinkedIn : https://www.linkedin.com/in/achraf-ameur-53763a1b5/ <br>
+     website : https://achrafameur.netlify.app <br>
  
 <!---
 achrafameur/achrafameur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
